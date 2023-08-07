@@ -12,7 +12,6 @@ export default function AddTodo() {
   };
 
   const newTodo = {
-    ...$todos.get(),
     id: $todos.get().length,
     name: todo,
     done: false,

@@ -13,6 +13,7 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.3",
     "@mui/material": "^5.14.3",
+    "@nanostores/persistent": "^0.9.1",
     "@nanostores/react": "^0.7.1",
     "@types/node": "20.4.8",
     "@types/react": "18.2.18",
